@@ -18,8 +18,9 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     $encode = urlencode($url_articles_seo);
     echo "
       <url>
-      <loc>#/view/$encode</loc>
+      <loc>https://www.sabai-999.com/view/$encode</loc>
       <lastmod>" . $date . "</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.75</priority>
       </url>";
   }

@@ -26,8 +26,8 @@
 </footer>
 <div id="navbar__footer">
     <a href="../"><img data-src="../img/icon/icon-nav01.webp" class="lazy img-fluid" width="40" height="40" alt="icon-home"><span>หน้าหลัก</span> </a>
-    <a href="../entrance/"><img data-src="../img/icon/icon-nav02.webp" class="lazy img-fluid" width="40" height="40" alt="icon เข้าสู่ระบบ"><span>เข้าสู่ระบบ</span> </a>
-    <a href="../register/"><img data-src="../img/icon/icon-nav03.webp" class="lazy img-fluid" width="40" height="40" alt="icon สมัครสมาชิก"><span>สมัครสมาชิก</span> </a>
-    <a href="../getmoney/"><img data-src="../img/icon/icon-nav04.webp" class="lazy img-fluid" width="40" height="40" alt="icon ลิงค์รับทรพย์"><span>ลิงค์รับทรพย์</span> </a>
-    <a href="../contact/"><img data-src="../img/icon/icon-nav05.webp" class="lazy img-fluid" width="40" height="40" alt="icon ติดต่อ"><span>ติดต่อ</span> </a>
+    <a href="http://aff.789first.com/login"><img data-src="../img/icon/icon-nav02.webp" class="lazy img-fluid" width="40" height="40" alt="icon เข้าสู่ระบบ"><span>เข้าสู่ระบบ</span> </a>
+    <a href="http://aff.789first.com/register"><img data-src="../img/icon/icon-nav03.webp" class="lazy img-fluid" width="40" height="40" alt="icon สมัครสมาชิก"><span>สมัครสมาชิก</span> </a>
+    <a href="http://aff.789first.com/register"><img data-src="../img/icon/icon-nav04.webp" class="lazy img-fluid" width="40" height="40" alt="icon ลิงค์รับทรพย์"><span>ลิงค์รับทรพย์</span> </a>
+    <a href="https://line.me/ti/p/~@789First"><img data-src="../img/icon/icon-nav05.webp" class="lazy img-fluid" width="40" height="40" alt="icon ติดต่อ"><span>ติดต่อ</span> </a>
 </div>

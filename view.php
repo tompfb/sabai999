@@ -13,19 +13,18 @@ function DateThai($strDate)
 ?>
 <?php
 include './conn/connect.php';
-$sql1 = "UPDATE articles SET  view=view+1   WHERE url_articles_seo='$_GET[url_articles_seo]'";
+$url_articles_seo = $_GET["url_articles_seo"];
+$sql1 = "UPDATE articles SET  view=view+1   WHERE url_articles_seo LIKE '%" . $url_articles_seo . "%'";
 $query1 = mysqli_query($conn, $sql1);
 ?>
 
 <!------------------end date ------------------>
 <?php
-include './conn/connect.php';
-$url_articles_seo = $_GET["url_articles_seo"];
 // รับข้อมูลจากตาราง
 if (isset($url_articles_seo)) {
 
     $sql_query = "SELECT * FROM articles 
-	WHERE url_articles_seo='$url_articles_seo'";
+	WHERE url_articles_seo LIKE '%" . $url_articles_seo . "%'";
     $result_set = mysqli_query($conn, $sql_query) or die('ข้อผิดพลาด');
     $result = mysqli_fetch_array($result_set);
     $id = $result["id"];
@@ -70,19 +69,19 @@ if (isset($url_articles_seo)) {
     <meta property="og:title" content="<?php echo $topic_name  ?>" />
     <meta property="og:description" content="<?php echo $descripion_seo  ?>" />
     <meta property="og:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>" />
-    <meta property="og:url" content="#/view/<?php echo $encode ?>" />
-    <meta property="og:site_name" content="g2gbet168" />
+    <meta property="og:url" content="https://www.sabai-999.com/view/<?php echo $encode ?>" />
+    <meta property="og:site_name" content="sabai999" />
 
-    <meta property="twitter:url" content="#/view/<?php echo $encode ?>">
+    <meta property="twitter:url" content="https://www.sabai-999.com/view/<?php echo $encode ?>">
     <meta property="twitter:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>">
     <meta name="twitter:title" content="<?php echo $topic_name ?>" />
     <meta name="twitter:description" content="<?php echo $descripion_seo ?>" />
-    <meta name="twitter:site" content="g2gbet168" />
-    <meta name="twitter:creator" content="g2gbet168" />
+    <meta name="twitter:site" content="sabai999" />
+    <meta name="twitter:creator" content="sabai999" />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <link rel="alternate" href="#/<?php echo $encode ?>" hreflang="th-TH" />
-    <link rel="canonical" href="#/<?php echo $encode ?>" />
+    <link rel="alternate" href="https://www.sabai-999.com/view/<?php echo $encode ?>" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/view/<?php echo $encode ?>" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -95,25 +94,25 @@ if (isset($url_articles_seo)) {
             "@type": "NewsArticle",
             "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "#/view/<?php echo $encode ?>"
+                "@id": "https://www.sabai-999.com/view/<?php echo $encode ?>"
             },
             "headline": "<?php echo $topic_name  ?>",
             "image": [
-                "#/backend/uploads/article-img/<?php echo $image_banner  ?>"
+                "https://www.sabai-999.com/backend/uploads/article-img/<?php echo $image_banner  ?>"
             ],
             "datePublished": "<?php echo $create_at ?>",
             "dateModified": "<?php echo $update_at ?>",
             "author": {
                 "@type": "Person",
-                "name": "g2gbet168",
-                "url": "#/view/<?php echo $encode ?>"
+                "name": "sabai999",
+                "url": "https://www.sabai-999.com/view/<?php echo $encode ?>"
             },
             "publisher": {
                 "@type": "Organization",
-                "name": "g2gbet168",
+                "name": "sabai999",
                 "logo": {
                     "@type": "ImageObject",
-                    "url": "#/view/<?php echo $encode ?>"
+                    "url": "https://www.sabai-999.com/view/<?php echo $encode ?>"
                 }
             }
         }
@@ -126,13 +125,13 @@ if (isset($url_articles_seo)) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "https://www.sabai-999.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "บทความทั้งหมด",
-                "item": "#/all-articles/"
-            }],
+                "item": "https://www.sabai-999.com/all-articles/"
+            },
             {
                 "@type": "ListItem",
                 "position": 3,
@@ -192,9 +191,9 @@ if (isset($url_articles_seo)) {
                         $chacks_query = mysqli_query($conn, $chack_tags) or die("error in query:$chack_tags" . mysqli_error($conn));
                         ?>
                         <div class="my-2 socail">
-                            <a href="http://www.facebook.com/sharer.php?u=#/view/<?php echo $encode ?>" target="_blank" class="share-facebook"><i class="fab fa-facebook-f"></i>แชร์</a>
-                            <a href="http://twitter.com/share?text=<?php echo $topic_name  ?> &url=#/view/<?php echo $encode ?> &hashtags=<?php while ($rs = mysqli_fetch_array($chacks_query)) { ?><?php echo $rs['tag_url']; ?>,<?php } ?>" target="_blank" class="share-twitter"><i class="fab fa-twitter"></i>ทวีต</a>
-                            <a href="https://social-plugins.line.me/lineit/share?url=#/view/<?php echo $encode ?>" target="_blank" class="share-line"><i class="fab fa-line"></i>แชร์</a>
+                            <a href="http://www.facebook.com/sharer.php?u=https://www.sabai-999.com/view/<?php echo $encode ?>" target="_blank" class="share-facebook"><i class="fab fa-facebook-f"></i>แชร์</a>
+                            <a href="http://twitter.com/share?text=<?php echo $topic_name  ?> &url=https://www.sabai-999.com/view/<?php echo $encode ?> &hashtags=<?php while ($rs = mysqli_fetch_array($chacks_query)) { ?><?php echo $rs['tag_url']; ?>,<?php } ?>" target="_blank" class="share-twitter"><i class="fab fa-twitter"></i>ทวีต</a>
+                            <a href="https://social-plugins.line.me/lineit/share?url=https://www.sabai-999.com/view/<?php echo $encode ?>" target="_blank" class="share-line"><i class="fab fa-line"></i>แชร์</a>
                         </div>
                         <div class="potsnew">
                             <span class="date-news">

@@ -14,8 +14,8 @@ $category_name = $_GET["name"];
     <meta name="robots" content="index,follow" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="canonical" href="#/category/<?php echo $category_name; ?>" />
-    <link rel="alternate" href="#/category/<?php echo $category_name; ?>" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/category/<?php echo $category_name; ?>" />
+    <link rel="alternate" href="https://www.sabai-999.com/category/<?php echo $category_name; ?>" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -31,13 +31,13 @@ $category_name = $_GET["name"];
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "https://www.sabai-999.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "บทความทั้งหมด",
-                "item": "#/all-articles/"
-            }],
+                "item": "https://www.sabai-999.com/all-articles/"
+            },
             {
                 "@type": "ListItem",
                 "position": 3,

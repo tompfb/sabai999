@@ -1,70 +1,13 @@
 <article class="article-container-card pt-4">
     <div class="container">
-
-        <?php
-        $uri_path = $_SERVER['REQUEST_URI'];
-        $currentSegment = basename(parse_url($uri_path, PHP_URL_PATH));
-        $category = '';
-        $cate_id;
-        switch ($currentSegment) {
-            case "casino":
-                $category = 'คาสิโนออนไลน์';
-                $cate_id = '5';
-                break;
-            case "slot":
-                $category = 'สล็อตออนไลน์';
-                $cate_id = '4';
-                break;
-            case "sport":
-                $category = 'กีฬาออนไลน์';
-                $cate_id = '6';
-                break;
-            case "lotto":
-                $category = 'หวยออนไลน์';
-                $cate_id = '3';
-                break;
-            case "entrance":
-                $category = 'ทางเข้า';
-                $cate_id = '1';
-                break;
-            case "register":
-                $category = 'สมัคร';
-                $cate_id = '2';
-                break;
-            case "getmoney":
-                $category = 'ลิงค์รับทรัพย์';
-                $cate_id = '8';
-                break;
-            case "contact":
-                $category = 'ติดต่อ';
-                $cate_id = '10';
-                break;
-            default:
-                $category = '';
-        }
-
-
-        ?>
-        <?php
-        if ($category != '') {
-        ?>
-            <p class="str-news text-center mb-0"><a href="../category/<?php echo $category ?>">หมวดหมู่ <?php echo $category ?></a></p><br>
-        <?php } else { ?>
-            <p class="str-news text-center mb-0"><a href="../all-articles/">บทความ / ข่าวสารที่น่าสนใจ</a></p><br>
-        <?php
-        }
-        ?>
+        <p class="str-news text-center mb-0"><a href="../all-articles/">บทความ / ข่าวสารที่น่าสนใจ</a></p><br>
         <div class="row d-flex justify-content-center align-items-end">
+
             <?php
             include_once './conn/connect.php';
-            if ($category != '') {
-                $sql = "SELECT * ,articles.id as id FROM articles LEFT join category on articles.category_id = category.id WHERE category_id = $cate_id LIMIT 0,3";
-                $q = mysqli_query($conn, $sql) or die("Error in query: $sql " . mysqli_error($conn));
-            } else {
-                $sql = "SELECT * FROM articles 
+            $sql = "SELECT * FROM articles 
             ORDER BY id DESC  LIMIT 0,3 ";
-                $q = mysqli_query($conn, $sql) or die("Error in query: $sql " . mysqli_error($conn));
-            }
+            $q = mysqli_query($conn, $sql) or die("Error in query: $sql " . mysqli_error($conn));
             while ($resuret = mysqli_fetch_array($q)) {
                 $d_topic = $resuret['topic_name'];
                 $d_dec = strip_tags(mb_substr($resuret['descripion'], 0, 100, 'utf-8'));
@@ -95,7 +38,7 @@
                                 </div>
 
                                 <p class="news-articles-p "><?php echo trim(strip_tags(mb_substr($seo_dec, 0, 120, 'utf-8'))); ?></p>
-                        
+
                             </div>
                         </a>
                         <div class="card__footer">

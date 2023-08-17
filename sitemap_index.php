@@ -8,8 +8,8 @@ include './conn/connect.php';
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
     <sitemap>
-        <loc>#/sitemap.xml</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+        <loc>https://www.sabai-999.com/sitemap.xml</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
     </sitemap>
 
 
@@ -20,8 +20,8 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     if ($countCate !== 0) {
         echo "
         <sitemap>
-            <loc>#/sitemap-category.xml</loc>
-            <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+            <loc>https://www.sabai-999.com/sitemap-category.xml</loc>
+            <lastmod>2023-08-17T13:59:55+00:00</lastmod>
         </sitemap> 
       ";
     }
@@ -34,8 +34,8 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     if ($countTag !== 0) {
         echo "
         <sitemap>
-            <loc>#/sitemap-tag.xml</loc>
-            <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+            <loc>https://www.sabai-999.com/sitemap-tag.xml</loc>
+            <lastmod>2023-08-17T13:59:55+00:00</lastmod>
         </sitemap>
       ";
     }
@@ -47,8 +47,8 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     if ($countAuth !== 0) {
         echo "
         <sitemap>
-            <loc>#/sitemap-author.xml</loc>
-            <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+            <loc>https://www.sabai-999.com/sitemap-author.xml</loc>
+            <lastmod>2023-08-17T13:59:55+00:00</lastmod>
         </sitemap>
       ";
     }
@@ -60,8 +60,8 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     if ($countArticle !== 0) {
         echo "
             <sitemap>
-                <loc>#/sitemap-view.xml</loc>
-                <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+                <loc>https://www.sabai-999.com/sitemap-view.xml</loc>
+                <lastmod>2023-08-17T13:59:55+00:00</lastmod>
             </sitemap>
       ";
     }

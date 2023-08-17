@@ -10,7 +10,7 @@ function DateThai($strDate)
     $strMonthThai = $strMonthCut[$strMonth];
     return "$strDay $strMonthThai $strYear ";
 }
-?> 
+?>
 <!------------------end date ------------------>
 <?php
 include './conn/connect.php';
@@ -38,15 +38,14 @@ $resultrow = mysqli_fetch_array($allArticle);
 <html>
 
 <head>
-    <title><?php echo $name  ?></title>
+    <title><?php echo $t_nameว  ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="<?php echo $resultrow['descripion_seo'];  ?>">
     <meta name="robots" content="all" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="canonical" href="/tag/<?php echo $tagUrl ?>" />
-    <link rel="alternate" href="/tag/<?php echo $tagUrl ?>" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/tag/<?php echo $tagUrl ?>" />
+    <link rel="alternate" href="https://www.sabai-999.com/tag/<?php echo $tagUrl ?>" hreflang="th-TH" />
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
@@ -58,21 +57,22 @@ $resultrow = mysqli_fetch_array($allArticle);
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             "itemListElement": [{
-                "@type": "ListItem",
-                "position": 1,
-                "name": "หน้าแรก",
-                "item": "#/"
-            }, {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "บทความทั้งหมด",
-                "item": "#/all-articles/"
-            }],
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "แท็ก <?php echo $t_name;  ?>"
-            }]
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "หน้าแรก",
+                    "item": "https://www.sabai-999.com/"
+                }, {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "บทความทั้งหมด",
+                    "item": "https://www.sabai-999.com/all-articles/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "แท็ก <?php echo $t_name;  ?>"
+                }
+            ]
         }
     </script>
 
@@ -127,7 +127,7 @@ $resultrow = mysqli_fetch_array($allArticle);
                                         </div>
 
                                         <p class="news-articles-p "><?php echo trim(strip_tags(mb_substr($row['descripion_seo'], 0, 120, 'utf-8'))); ?></p>
-                                     
+
                                     </div>
                                 </a>
 

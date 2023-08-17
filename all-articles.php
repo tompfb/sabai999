@@ -5,22 +5,38 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>บทความทั้งหมด g2gbet</title>
+    <title>บทความทั้งหมด sabai999</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="th" />
     <meta http-equiv="content-type" content="text/html;" charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="all" />
-    <meta name="Author" content="g2gbet">
+    <meta name="Author" content="sabai999">
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
 
     <?php include('./link.php'); ?>
-    <link rel="canonical" href="#/all-articles/" />
-    <link rel="alternate" href="#/all-articles/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/all-articles/" />
+    <link rel="alternate" href="https://www.sabai-999.com/all-articles/" hreflang="th-TH" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "หน้าแรก",
+                "item": "https://www.sabai-999.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "บทความทั้งหมด"
+            }]
+        }
+    </script>
 
 </head>
 

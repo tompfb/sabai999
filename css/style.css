@@ -734,7 +734,7 @@ article.content {
     background-color: #777777;
     overflow-x: hidden;
     transition: 0.5s;
-    padding-bottom: 50px !important;
+    padding-bottom: 120px !important;
   }
 
   .overlay-content {

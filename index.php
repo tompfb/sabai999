@@ -15,9 +15,9 @@ if ($key_search) {
 <html lang="th">
 
 <head>
-    <title>g2gbet168 คาสิโนออนไลน์ บาคาร่า มั่นคงที่สุดในไทย ฝาก ถอน ออโต้ เริ่มต้นเพียง 1 บาท</title>
-    <meta name="title" content="g2gbet168 คาสิโนออนไลน์ บาคาร่า มั่นคงที่สุดในไทย ฝาก ถอน ออโต้ เริ่มต้นเพียง 1 บาท " />
-    <meta name="description" content="g2gbet168 เว็บไซต์ของเรา คือผู้ให้บริการ เกมเดิมพันพนันออนไลน์ ครบวงจร ในเว็บไซต์จะมีเกมเดิมพันทุกรูปแบบ เปิดให้บริการ ไม่ว่าจะเป็นเกมเดิมพัน คาสิโนสด เดิมพันบาคาร่า เกมสล็อต เกมยิงปลา ลอตเตอรี่ บริการครบทุกรูปแบบ นอกจากนั้นยังโดดเด่น ในด้านการเสนอ ตลาดการเดิมพันกีฬา ที่ดีที่สุด" />
+    <title>sabai999 เว็บพนันออนไลน์ ออโต้ ฝาก-ถอน ใน 2 วินาที</title>
+    <meta name="title" content="sabai999 เว็บพนันออนไลน์ ออโต้ ฝาก-ถอน ใน 2 วินาที " />
+    <meta name="description" content="sabai999 เว็บพนันออนไลน์ ที่มาพร้อมระบบการเล่น พนันที่ทันสมัยที่สุด บริการ เกมคาสิโนสด กีฬาเดิมพัน ยิงปลา หวยออนไลน์ แทงบอล รวมถึงเกมสล็อตออนไลน์ " />
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -26,7 +26,7 @@ if ($key_search) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="index,follow" />
-    <meta name="Author" content="g2gbet168 ">
+    <meta name="Author" content="sabai999 ">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -35,22 +35,22 @@ if ($key_search) {
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="g2gbet168 คาสิโนออนไลน์ บาคาร่า มั่นคงที่สุดในไทย ฝาก ถอน ออโต้ เริ่มต้นเพียง 1 บาท" />
-    <meta property="og:description" content="g2gbet168 เว็บไซต์ของเรา คือผู้ให้บริการ เกมเดิมพันพนันออนไลน์ ครบวงจร ในเว็บไซต์จะมีเกมเดิมพันทุกรูปแบบ เปิดให้บริการ ไม่ว่าจะเป็นเกมเดิมพัน คาสิโนสด เดิมพันบาคาร่า เกมสล็อต เกมยิงปลา ลอตเตอรี่ บริการครบทุกรูปแบบ นอกจากนั้นยังโดดเด่น ในด้านการเสนอ ตลาดการเดิมพันกีฬา ที่ดีที่สุด" />
-    <meta property="og:url" content="#/" />
-    <meta property="og:site_name" content="g2gbet" />
-    <meta property="og:image" content="./img/logo-g2gbet168.webp" />
+    <meta property="og:title" content="sabai999 เว็บพนันออนไลน์ ออโต้ ฝาก-ถอน ใน 2 วินาที" />
+    <meta property="og:description" content="sabai999 เว็บพนันออนไลน์ ที่มาพร้อมระบบการเล่น พนันที่ทันสมัยที่สุด บริการ เกมคาสิโนสด กีฬาเดิมพัน ยิงปลา หวยออนไลน์ แทงบอล รวมถึงเกมสล็อตออนไลน์ " />
+    <meta property="og:url" content="https://www.sabai-999.com/" />
+    <meta property="og:site_name" content="sabai999" />
+    <meta property="og:image" content="./img/logo-sabai999.webp" />
 
-    <meta property="twitter:url" content="#/">
-    <meta property="twitter:image" content="./img/logo-g2gbet168.webp">
+    <meta property="twitter:url" content="https://www.sabai-999.com/">
+    <meta property="twitter:image" content="./img/logo-sabai999.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="g2gbet168 คาสิโนออนไลน์ บาคาร่า มั่นคงที่สุดในไทย ฝาก ถอน ออโต้ เริ่มต้นเพียง 1 บาท" />
-    <meta name="twitter:description" content="g2gbet168 เว็บไซต์ของเรา คือผู้ให้บริการ เกมเดิมพันพนันออนไลน์ ครบวงจร ในเว็บไซต์จะมีเกมเดิมพันทุกรูปแบบ เปิดให้บริการ ไม่ว่าจะเป็นเกมเดิมพัน คาสิโนสด เดิมพันบาคาร่า เกมสล็อต เกมยิงปลา ลอตเตอรี่ บริการครบทุกรูปแบบ นอกจากนั้นยังโดดเด่น ในด้านการเสนอ ตลาดการเดิมพันกีฬา ที่ดีที่สุด" />
-    <meta name="twitter:site" content="g2gbet168">
-    <meta name="twitter:creator" content="g2gbet168">
+    <meta name="twitter:title" content="sabai999 เว็บพนันออนไลน์ ออโต้ ฝาก-ถอน ใน 2 วินาที" />
+    <meta name="twitter:description" content="sabai999 เว็บพนันออนไลน์ ที่มาพร้อมระบบการเล่น พนันที่ทันสมัยที่สุด บริการ เกมคาสิโนสด กีฬาเดิมพัน ยิงปลา หวยออนไลน์ แทงบอล รวมถึงเกมสล็อตออนไลน์ " />
+    <meta name="twitter:site" content="sabai999">
+    <meta name="twitter:creator" content="sabai999">
 
-    <link rel="canonical" href="#/" />
-    <link rel="alternate" href="#/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/" />
+    <link rel="alternate" href="https://www.sabai-999.com/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="./favicon.webp" type="image/x-icon" />
     <link rel="icon" href="./favicon.webp" type="image/x-icon" />
@@ -61,15 +61,15 @@ if ($key_search) {
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "url": "#/",
-            "logo": "#/img/logo-g2gbet168.webp"
+            "url": "https://www.sabai-999.com/",
+            "logo": "https://www.sabai-999.com/img/logo-sabai999.webp"
         }
     </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebPage",
-            "name": "g2gbet168",
+            "name": "sabai999",
             "speakable": {
                 "@type": "SpeakableSpecification",
                 "xPath": [
@@ -77,21 +77,21 @@ if ($key_search) {
                     "/html/head/meta[@name='description']/@content"
                 ]
             },
-            "url": "#/"
+            "url": "https://www.sabai-999.com/"
         }
     </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "url": "#/",
-            "name": "g2gbet168",
-            "description": "g2gbet168 คาสิโนออนไลน์ บาคาร่า มั่นคงที่สุดในไทย",
+            "url": "https://www.sabai-999.com/",
+            "name": "sabai999",
+            "description": "sabai999 เว็บพนันออนไลน์ ออโต้ ฝาก-ถอน ใน 2 วินาที",
             "potentialAction": [{
                 "@type": "SearchAction",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "#/?s={search_term_string}"
+                    "urlTemplate": "https://www.sabai-999.com/?s={search_term_string}"
                 },
                 "query-input": "required name=search_term_string"
             }]
@@ -104,7 +104,7 @@ if ($key_search) {
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
-                "name": "g2gbet168"
+                "name": "sabai999"
             }]
         }
     </script>
@@ -113,16 +113,16 @@ if ($key_search) {
             "@context": "https://schema.org",
             "@type": "Store",
             "image": [
-                "#/img/logo-g2gbet168.webp",
-                "#/img/g2gbet168img-01.webp",
-                "#/img/g2gbet168img-02.webp"
+                "https://www.sabai-999.com/img/logo-sabai999.webp",
+                "https://www.sabai-999.com/img/img-sabai999-main01.webp",
+                "https://www.sabai-999.com/img/img-sabai999-main02.webp"
             ],
-            "name": "g2gbet168",
+            "name": "sabai999",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "TH"
             },
-            "url": "#/",
+            "url": "https://www.sabai-999.com/",
             "priceRange": "฿฿฿",
             "telephone": "+6696-921-9245",
             "openingHoursSpecification": [{
@@ -167,16 +167,16 @@ if ($key_search) {
                     </a>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-9 f_right">
-                    <form action="" method="POST">
+                    <form onSubmit="JavaScript:return fncSubmit();" method="POST">
                         <div class="group-input">
                             <label for="int-username"><img data-src="./img/icon/ic-user.webp" class="lazy img-fluid" width="35" height="35" alt="icon username"> Personal ID</label>
-                            <input type="text" class="int-username" name="user" placeholder="Username" required>
+                            <input type="text" class="int-username" name="name" placeholder="Username" required>
                         </div>
                         <div class="group-input">
                             <label for="int-password"><img data-src="./img/icon/ic-pass.webp" class="lazy img-fluid" width="35" height="35" alt="icon username"> Security Code</label>
-                            <input type="text" class="int-password" name="user" placeholder="Password" required>
+                            <input type="password" class="int-password" name="pass" placeholder="Password" required>
                         </div>
-                        <button type="submit" name="login" class="btn-login">Log In</button>
+                        <button type="submit" name="create-post" class="btn-login">Log In</button>
                     </form>
                 </div>
             </div>
@@ -192,7 +192,7 @@ if ($key_search) {
             <a href="./getmoney/">ลิงค์รับทรัพย์</a>
             <a href="./contact/">ติดต่อ</a>
         </nav><br>
-        <div class="slideshow-container mb-1" >
+        <div class="slideshow-container mb-1">
             <div class="mySlides">
                 <img data-src="./img/banner-sabai999-01.webp" class="lazy img-fluid" width="100%" height="100%" alt="banner-sabai999">
             </div>
@@ -205,7 +205,7 @@ if ($key_search) {
             <a class="prevs" onclick="plusSlides(-1)"><img data-src="./img/img-prevs.webp" class="lazy img-fluid" width="62" height="84" alt="prev"></a>
             <a class="nexts" onclick="plusSlides(1)"><img data-src="./img/img-nexts.webp" class="lazy img-fluid" width="62" height="84" alt="next"></a>
         </div>
-        <div class="container text-center" >
+        <div class="container text-center">
             <span class="dot" onclick="currentSlide(1)"></span>
             <span class="dot" onclick="currentSlide(2)"></span>
             <span class="dot" onclick="currentSlide(3)"></span>
@@ -215,15 +215,15 @@ if ($key_search) {
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <div class="overlay-content">
                 <img data-src="./img/logo-sabai999.webp" class="lazy img-max " width="291" height="151" alt="logo sabai999">
-             <a href="./">sabai999</a>
-            <a href="./casino/">คาสิโน</a>
-            <a href="./lotto/">หวย</a>
-            <a href="./slot/">สล็อต</a>
-            <a href="./sport/">กีฬา</a>
-            <a href="./entrance/">ทางเข้า</a>
-            <a href="./register/">สมัคร</a>
-            <a href="./getmoney/">ลิงค์รับทรัพย์</a>
-            <a href="./contact/">ติดต่อ</a>
+                <a href="./">sabai999</a>
+                <a href="./casino/">คาสิโน</a>
+                <a href="./lotto/">หวย</a>
+                <a href="./slot/">สล็อต</a>
+                <a href="./sport/">กีฬา</a>
+                <a href="./entrance/">ทางเข้า</a>
+                <a href="./register/">สมัคร</a>
+                <a href="./getmoney/">ลิงค์รับทรัพย์</a>
+                <a href="./contact/">ติดต่อ</a>
             </div>
         </div>
 
@@ -269,12 +269,12 @@ if ($key_search) {
                         <img data-src="./img/logo-sabai999.webp" class="lazy img-max" width="200" height="153" alt="logo sabai999">
                         <br>
                         <div class="px-1">
-                            <a class="a_border" href="">Add Line</a>
-                            <a class="a_border" href="">ฝาก - ถอน</a>
-                            <a class="a_border" href="">สมัครสมาชิก</a>
-                            <a class="a_border" href="">โปรโมชั่น</a>
-                            <a class="a_border" href="">คำถามที่พบบ่อย</a>
-                            <a class="a_border" href="">บริการ 24 ชม.</a>
+                            <a class="a_border" href="https://line.me/ti/p/~@789First">Add Line</a>
+                            <a class="a_border" href="http://aff.789first.com/login">ฝาก - ถอน</a>
+                            <a class="a_border" href="http://aff.789first.com/register">สมัครสมาชิก</a>
+                            <a class="a_border" href="http://aff.789first.com/register">โปรโมชั่น</a>
+                            <a class="a_border" href="./contact/">คำถามที่พบบ่อย</a>
+                            <a class="a_border" href="http://aff.789first.com/login">บริการ 24 ชม.</a>
                         </div>
                     </div>
                     <br>
@@ -288,7 +288,7 @@ if ($key_search) {
                                     บาคาร่า ทดลองเล่น
                                     สล็อต ตัวช่วยดีๆ ที่ไม่ควรมองข้าม </p>
 
-                                <a href="" class="link-play">play</a>
+                                <a href="http://aff.789first.com/register" class="link-play">play</a>
                             </div>
                         </div>
                     </div>
@@ -594,10 +594,10 @@ if ($key_search) {
     </footer>
     <div id="navbar__footer">
         <a href="./"><img data-src="./img/icon/icon-nav01.webp" class="lazy img-fluid" width="40" height="40" alt="icon-home"><span>หน้าหลัก</span> </a>
-        <a href="./entrance/"><img data-src="./img/icon/icon-nav02.webp" class="lazy img-fluid" width="40" height="40" alt="icon เข้าสู่ระบบ"><span>เข้าสู่ระบบ</span> </a>
-        <a href="./register/"><img data-src="./img/icon/icon-nav03.webp" class="lazy img-fluid" width="40" height="40" alt="icon สมัครสมาชิก"><span>สมัครสมาชิก</span> </a>
-        <a href="./getmoney/"><img data-src="./img/icon/icon-nav04.webp" class="lazy img-fluid" width="40" height="40" alt="icon ลิงค์รับทรพย์"><span>ลิงค์รับทรพย์</span> </a>
-        <a href="./contact/"><img data-src="./img/icon/icon-nav05.webp" class="lazy img-fluid" width="40" height="40" alt="icon ติดต่อ"><span>ติดต่อ</span> </a>
+        <a href="http://aff.789first.com/login"><img data-src="./img/icon/icon-nav02.webp" class="lazy img-fluid" width="40" height="40" alt="icon เข้าสู่ระบบ"><span>เข้าสู่ระบบ</span> </a>
+        <a href="http://aff.789first.com/register"><img data-src="./img/icon/icon-nav03.webp" class="lazy img-fluid" width="40" height="40" alt="icon สมัครสมาชิก"><span>สมัครสมาชิก</span> </a>
+        <a href="http://aff.789first.com/register"><img data-src="./img/icon/icon-nav04.webp" class="lazy img-fluid" width="40" height="40" alt="icon ลิงค์รับทรพย์"><span>ลิงค์รับทรพย์</span> </a>
+        <a href="https://line.me/ti/p/~@789First"><img data-src="./img/icon/icon-nav05.webp" class="lazy img-fluid" width="40" height="40" alt="icon ติดต่อ"><span>ติดต่อ</span> </a>
     </div>
 
     <script>

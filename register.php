@@ -5,9 +5,9 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>สมัคร g2gbet168</title>
-    <meta name="title" content="สมัคร g2gbet168" />
-    <meta name="description" content="สมัคร g2gbet168 เว็บพนันตรง ไม่ผ่านเอเย่นต์ เป็นเว็บพนันออนไลน์ ที่กำลังมาแรง ที่สุดในขณะนี้ การันตีด้วยยอด การค้นหาจาก Google กว่าแสนครั้งต่อเดือน เปิดให้บริการ เดิมพันพนันออนไลน์ แบบครบวงจร มีบริการครบในเว็บเดียว ไม่ว่าจะเป็น คาสิโนออนไลน์ แทงบอล บาคาร่า สล็อต เสือมังกร ลอตเตอรี่ เกมยิงปลา" />
+    <title>สมัคร sabai999 เว็บพนันออนไลน์อันดับ 1 เล่นจริง จ่ายจริง</title>
+    <meta name="title" content="สมัคร sabai999 เว็บพนันออนไลน์อันดับ 1 เล่นจริง จ่ายจริง" />
+    <meta name="description" content="สมัคร sabai999 เว็บพนันออนไลน์อันดับ 1 เล่นจริง จ่ายจริง รับเงินได้อย่างรวดเร็ว มีบริการเกมพนันออนไลน์มากมาย" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@ include 'script-login.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="all" />
-    <meta name="Author" content="g2gbet168 ">
+    <meta name="Author" content="sabai999 ">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -26,22 +26,22 @@ include 'script-login.php';
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="สมัคร g2gbet168" />
-    <meta property="og:description" content="สมัคร g2gbet168 เว็บพนันตรง ไม่ผ่านเอเย่นต์ เป็นเว็บพนันออนไลน์ ที่กำลังมาแรง ที่สุดในขณะนี้ การันตีด้วยยอด การค้นหาจาก Google กว่าแสนครั้งต่อเดือน เปิดให้บริการ เดิมพันพนันออนไลน์ แบบครบวงจร มีบริการครบในเว็บเดียว ไม่ว่าจะเป็น คาสิโนออนไลน์ แทงบอล บาคาร่า สล็อต เสือมังกร ลอตเตอรี่ เกมยิงปลา" />
-    <meta property="og:url" content="#/register/" />
+    <meta property="og:title" content="สมัคร sabai999 เว็บพนันออนไลน์อันดับ 1 เล่นจริง จ่ายจริง" />
+    <meta property="og:description" content="สมัคร sabai999 เว็บพนันออนไลน์อันดับ 1 เล่นจริง จ่ายจริง รับเงินได้อย่างรวดเร็ว มีบริการเกมพนันออนไลน์มากมาย" />
+    <meta property="og:url" content="https://www.sabai-999.com/register/" />
     <meta property="og:site_name" content="สมัคร" />
-    <meta property="og:image" content="../img/register/g2gbet168-register-04.webp" />
+    <meta property="og:image" content="../img/register/sabai999-register-01.webp" />
 
-    <meta property="twitter:url" content="#/register/">
-    <meta property="twitter:image" content="../img/register/g2gbet168-register-04.webp">
+    <meta property="twitter:url" content="https://www.sabai-999.com/register/">
+    <meta property="twitter:image" content="../img/register/sabai999-register-01.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="สมัคร g2gbet168" />
-    <meta name="twitter:description" content="สมัคร g2gbet168 เว็บพนันตรง ไม่ผ่านเอเย่นต์ เป็นเว็บพนันออนไลน์ ที่กำลังมาแรง ที่สุดในขณะนี้ การันตีด้วยยอด การค้นหาจาก Google กว่าแสนครั้งต่อเดือน เปิดให้บริการ เดิมพันพนันออนไลน์ แบบครบวงจร มีบริการครบในเว็บเดียว ไม่ว่าจะเป็น คาสิโนออนไลน์ แทงบอล บาคาร่า สล็อต เสือมังกร ลอตเตอรี่ เกมยิงปลา" />
-    <meta name="twitter:site" content="g2gbet168">
-    <meta name="twitter:creator" content="g2gbet168">
+    <meta name="twitter:title" content="สมัคร sabai999 เว็บพนันออนไลน์อันดับ 1 เล่นจริง จ่ายจริง" />
+    <meta name="twitter:description" content="สมัคร sabai999 เว็บพนันออนไลน์อันดับ 1 เล่นจริง จ่ายจริง รับเงินได้อย่างรวดเร็ว มีบริการเกมพนันออนไลน์มากมาย" />
+    <meta name="twitter:site" content="sabai999">
+    <meta name="twitter:creator" content="sabai999">
 
-    <link rel="canonical" href="#/register/" />
-    <link rel="alternate" href="#/register/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/register/" />
+    <link rel="alternate" href="https://www.sabai-999.com/register/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -55,7 +55,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "https://www.sabai-999.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

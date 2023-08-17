@@ -16,8 +16,9 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     $encode_tag = urlencode($category);
     echo "
   <url>
-  <loc>#/category/$encode_tag</loc>
-  <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+  <loc>https://www.sabai-999.com/category/$encode_tag</loc>
+  <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.75</priority>
   </url>";
   }

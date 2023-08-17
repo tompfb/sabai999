@@ -5,54 +5,63 @@
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
     <url>
-        <loc>#/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+        <loc>https://www.sabai-999.com/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>#/casino/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
+        <loc>https://www.sabai-999.com/casino/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>#/lotto/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
+        <loc>https://www.sabai-999.com/lotto/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>#/slot/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
+        <loc>https://www.sabai-999.com/slot/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>#/sport/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
+        <loc>https://www.sabai-999.com/sport/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>#/entrance/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
+        <loc>https://www.sabai-999.com/entrance/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>#/register/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
+        <loc>https://www.sabai-999.com/register/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>#/getmoney/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
-    </url>
-
-    <url>
-        <loc>#/contact/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
-        <priority>1.00</priority>
+        <loc>https://www.sabai-999.com/getmoney/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>#/all-articles/</loc>
-        <lastmod>2022-05-26T02:46:27+00:00</lastmod>
+        <loc>https://www.sabai-999.com/contact/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.sabai-999.com/all-articles/</loc>
+        <lastmod>2023-08-17T13:59:55+00:00</lastmod>
+         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
     </url>
 </urlset>

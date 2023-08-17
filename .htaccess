@@ -32,7 +32,7 @@ RewriteRule ^author/([a-zA-Z-0-9-ก-เ-]+)/ author.php/firstname=$1
 RewriteRule ^sitemap_index\.xml$ sitemap_index.php [L]
 RewriteRule ^sitemap_index$ sitemap_index.php [L]
 
-RewriteRule ^sitemap\.xml$ sitemap.php [L]
+RewriteRule ^sitemap\.xml$ sitemap.php [L] 
 RewriteRule ^sitemap$ sitemap.php [L]
 
 RewriteRule ^sitemap-category\.xml$ sitemap-category.php [L]

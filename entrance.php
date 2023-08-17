@@ -5,9 +5,9 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>ทางเข้า g2gbet168 สะดวกสบายบนมือถือ รองรับทุกระบบ </title>
-    <meta name="title" content="ทางเข้า g2gbet168 สะดวกสบายบนมือถือ รองรับทุกระบบ" />
-    <meta name="description" content="ทางเข้า g2gbet168 ศูนย์รวมเกมเดิมพัน ยอดฮิตมากมาย ไม่ว่าจะเป็น คาสิโนสด บาคาร่า เกมสล็อต เกมยิงปลา ลอตเตอรี่ รวมไปถึงบริการพนันกีฬา ที่ครอบคลุมทุกลีก การแข่งขัน จากทั่วโลก เสนอตัวเลือกกีฬา แทงบอล Basketball มวย แบดมินตัน รวมถึงกีฬา ยอดฮิตอย่าง e-sport และเกมเดิมพันอื่นๆ อีกมากมาย" />
+    <title>ทางเข้า sabai999 </title>
+    <meta name="title" content="ทางเข้า sabai999" />
+    <meta name="description" content="ทางเข้า sabai999 เว็บพนันออนไลน์ที่ดีที่สุด ในประเทศไทย ณ เวลานี้ เราคือผู้ให้บริการเกมคาสิโนออนไลน์ครบวงจร เป็นพันธมิตร กับผู้ให้บริการคาสิโนชั้นนำ ระดับโลกมากมาย" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@ include 'script-login.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="all" />
-    <meta name="Author" content="g2gbet168 ">
+    <meta name="Author" content="sabai999 ">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -26,22 +26,22 @@ include 'script-login.php';
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="ทางเข้า g2gbet168 สะดวกสบายบนมือถือ รองรับทุกระบบ" />
-    <meta property="og:description" content="ทางเข้า g2gbet168 ศูนย์รวมเกมเดิมพัน ยอดฮิตมากมาย ไม่ว่าจะเป็น คาสิโนสด บาคาร่า เกมสล็อต เกมยิงปลา ลอตเตอรี่ รวมไปถึงบริการพนันกีฬา ที่ครอบคลุมทุกลีก การแข่งขัน จากทั่วโลก เสนอตัวเลือกกีฬา แทงบอล Basketball มวย แบดมินตัน รวมถึงกีฬา ยอดฮิตอย่าง e-sport และเกมเดิมพันอื่นๆ อีกมากมาย" />
-    <meta property="og:url" content="#/entrance/" />
+    <meta property="og:title" content="ทางเข้า sabai999" />
+    <meta property="og:description" content="ทางเข้า sabai999 เว็บพนันออนไลน์ที่ดีที่สุด ในประเทศไทย ณ เวลานี้ เราคือผู้ให้บริการเกมคาสิโนออนไลน์ครบวงจร เป็นพันธมิตร กับผู้ให้บริการคาสิโนชั้นนำ ระดับโลกมากมาย" />
+    <meta property="og:url" content="https://www.sabai-999.com/entrance/" />
     <meta property="og:site_name" content="ทางเข้า" />
-    <meta property="og:image" content="../img/entrance/g2gbet168-entrance-03.webp" />
+    <meta property="og:image" content="../img/entrance/sabai999-entrance-01.webp" />
 
-    <meta property="twitter:url" content="#/entrance/">
-    <meta property="twitter:image" content="../img/entrance/g2gbet168-entrance-03.webp">
+    <meta property="twitter:url" content="https://www.sabai-999.com/entrance/">
+    <meta property="twitter:image" content="../img/entrance/sabai999-entrance-01.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="ทางเข้า g2gbet168 สะดวกสบายบนมือถือ รองรับทุกระบบ" />
-    <meta name="twitter:description" content="ทางเข้า g2gbet168 ศูนย์รวมเกมเดิมพัน ยอดฮิตมากมาย ไม่ว่าจะเป็น คาสิโนสด บาคาร่า เกมสล็อต เกมยิงปลา ลอตเตอรี่ รวมไปถึงบริการพนันกีฬา ที่ครอบคลุมทุกลีก การแข่งขัน จากทั่วโลก เสนอตัวเลือกกีฬา แทงบอล Basketball มวย แบดมินตัน รวมถึงกีฬา ยอดฮิตอย่าง e-sport และเกมเดิมพันอื่นๆ อีกมากมาย" />
-    <meta name="twitter:site" content="g2gbet168">
-    <meta name="twitter:creator" content="g2gbet168">
+    <meta name="twitter:title" content="ทางเข้า sabai999" />
+    <meta name="twitter:description" content="ทางเข้า sabai999 เว็บพนันออนไลน์ที่ดีที่สุด ในประเทศไทย ณ เวลานี้ เราคือผู้ให้บริการเกมคาสิโนออนไลน์ครบวงจร เป็นพันธมิตร กับผู้ให้บริการคาสิโนชั้นนำ ระดับโลกมากมาย" />
+    <meta name="twitter:site" content="sabai999">
+    <meta name="twitter:creator" content="sabai999">
 
-    <link rel="canonical" href="#/entrance/" />
-    <link rel="alternate" href="#/entrance/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/entrance/" />
+    <link rel="alternate" href="https://www.sabai-999.com/entrance/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "https://www.sabai-999.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

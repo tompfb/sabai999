@@ -20,20 +20,20 @@ if (isset($Fname)) {
 <html>
 
 <head>
-    <title><?php echo $a_name ?>, Author at g2gbet168</title>
+    <title><?php echo $a_name ?>, Author at sabai999</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="index,follow" />
-    <link rel="canonical" href="#/author/<?php echo $a_name ?>" />
-    <link rel="alternate" href="#/author/<?php echo $a_name ?>" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/author/<?php echo $a_name ?>" />
+    <link rel="alternate" href="https://www.sabai-999.com/author/<?php echo $a_name ?>" hreflang="th-TH" />
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="author" />
-    <meta property="og:title" content="<?php echo $a_name ?>, Author at g2gbet168" />
-    <meta property="og:url" content="#/author/<?php echo $a_name ?>" />
-    <meta property="og:site_name" content="g2gbet168" />
-    <meta property="og:image" content="../img/logo-g2gbet168.webp" />
+    <meta property="og:title" content="<?php echo $a_name ?>, Author at sabai999" />
+    <meta property="og:url" content="https://www.sabai-999.com/author/<?php echo $a_name ?>" />
+    <meta property="og:site_name" content="sabai999" />
+    <meta property="og:image" content="../img/logo-sabai999.webp" />
     <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
@@ -46,21 +46,22 @@ if (isset($Fname)) {
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             "itemListElement": [{
-                "@type": "ListItem",
-                "position": 1,
-                "name": "หน้าแรก",
-                "item": "#/"
-            }, {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "บทความทั้งหมด",
-                "item": "#/all-articles/"
-            }],
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "<?php echo $a_name;  ?>"
-            }]
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "หน้าแรก",
+                    "item": "https://www.sabai-999.com/"
+                }, {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "บทความทั้งหมด",
+                    "item": "https://www.sabai-999.com/all-articles/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "<?php echo $a_name;  ?>"
+                }
+            ]
         }
     </script>
 

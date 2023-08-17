@@ -2,22 +2,22 @@
     <button class="openmenu" type="button" onclick="openNav()"><span>&#9776;</span></button>
     <div class="container-fluid px-0 fluid-head">
         <div class="row align-items-center">
-            <div class="col-lg-3 text-center">
+            <div class="col-sm-12 col-md-12 col-lg-3 text-center">
                 <a href="../">
                     <img data-src="../img/logo-sabai999.webp" class="lazy img-fluid" width="293" height="153" alt="logo sabai999">
                 </a>
             </div>
-            <div class="col-lg-9 f_right">
-                <form action="" method="POST">
+            <div class="col-sm-12 col-md-12 col-lg-9 f_right">
+                <form onSubmit="JavaScript:return fncSubmit();" method="POST">
                     <div class="group-input">
                         <label for="int-username"><img data-src="../img/icon/ic-user.webp" class="lazy img-fluid" width="35" height="35" alt="icon username"> Personal ID</label>
-                        <input type="text" class="int-username" name="user" placeholder="Username" required>
+                        <input type="text" class="int-username" name="name" placeholder="Username" required>
                     </div>
                     <div class="group-input">
                         <label for="int-password"><img data-src="../img/icon/ic-pass.webp" class="lazy img-fluid" width="35" height="35" alt="icon username"> Security Code</label>
-                        <input type="text" class="int-password" name="user" placeholder="Password" required>
+                        <input type="password" class="int-password" name="pass" placeholder="Password" required>
                     </div>
-                    <button type="submit" name="login" class="btn-login">Log In</button>
+                    <button type="submit" name="create-post" class="btn-login">Log In</button>
                 </form>
             </div>
         </div>
@@ -67,4 +67,5 @@
             <a href="../contact/">ติดต่อ</a>
         </div>
     </div>
+
 </header>

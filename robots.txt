@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: #/sitemap_index.xml
+Sitemap: https://www.sabai-999.com/sitemap_index.xml

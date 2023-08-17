@@ -5,9 +5,9 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>หวย g2gbet168 เปิดบริการ ครบทุกประเภท และเว็บที่จ่ายแพงที่สุด</title>
-    <meta name="title" content="หวย g2gbet168 เปิดบริการ ครบทุกประเภท และเว็บที่จ่ายแพงที่สุด" />
-    <meta name="description" content="หวย g2gbet168 เว็บหวยออนไลน์ที่ดีที่สุด รับแทงหวย ซื้อหวยออนไลน์ มีความมั่นคง ทางการเงิน จ่ายผลตอบแทน สูงสุดในไทย สามารถแทงได้ทุกที่ ทุกอุปกรณ์ แทงหวยบนมือถือ สะดวก และรวดเร็ว รองรับระบบ Android และ iOS เปิดรับแทงหวยล่วงหน้า มาพร้อมอัตรา การจ่ายสูงสุด ถึงบาทละ 900 แทงหวย ไม่มีขั้นต่ำ เริ่มต้น 1 บาท" />
+    <title>sabai999 หวย ปลอดภัย 100% จ่ายแพง จ่ายจริง</title>
+    <meta name="title" content="sabai999 หวย ปลอดภัย 100% จ่ายแพง จ่ายจริง" />
+    <meta name="description" content="sabai999 หวย นอกเหนือจากหวยรัฐบาลแล้ว ทางเว็บไซต์หวยออนไลน์ ก็ยังมีหวยต่างประเทศ ให้ได้เลือกเล่น ไม่ว่าจะเป็น หวยลาว รวมถึงหวยจับยี่กี่" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@ include 'script-login.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="all" />
-    <meta name="Author" content="g2gbet168 ">
+    <meta name="Author" content="sabai999 ">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -26,22 +26,22 @@ include 'script-login.php';
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="หวย g2gbet168 เปิดบริการ ครบทุกประเภท และเว็บที่จ่ายแพงที่สุด" />
-    <meta property="og:description" content="หวย g2gbet168 เว็บหวยออนไลน์ที่ดีที่สุด รับแทงหวย ซื้อหวยออนไลน์ มีความมั่นคง ทางการเงิน จ่ายผลตอบแทน สูงสุดในไทย สามารถแทงได้ทุกที่ ทุกอุปกรณ์ แทงหวยบนมือถือ สะดวก และรวดเร็ว รองรับระบบ Android และ iOS เปิดรับแทงหวยล่วงหน้า มาพร้อมอัตรา การจ่ายสูงสุด ถึงบาทละ 900 แทงหวย ไม่มีขั้นต่ำ เริ่มต้น 1 บาท" />
-    <meta property="og:url" content="#/lotto/" />
+    <meta property="og:title" content="sabai999 หวย ปลอดภัย 100% จ่ายแพง จ่ายจริง" />
+    <meta property="og:description" content="sabai999 หวย นอกเหนือจากหวยรัฐบาลแล้ว ทางเว็บไซต์หวยออนไลน์ ก็ยังมีหวยต่างประเทศ ให้ได้เลือกเล่น ไม่ว่าจะเป็น หวยลาว รวมถึงหวยจับยี่กี่" />
+    <meta property="og:url" content="https://www.sabai-999.com/lotto/" />
     <meta property="og:site_name" content="หวย" />
-    <meta property="og:image" content="../img/lotto/g2gbet168-lotto-04.webp" />
+    <meta property="og:image" content="../img/lotto/sabai999-lotto-01.webp" />
 
-    <meta property="twitter:url" content="#/lotto/">
-    <meta property="twitter:image" content="../img/lotto/g2gbet168-lotto-04.webp">
+    <meta property="twitter:url" content="https://www.sabai-999.com/lotto/">
+    <meta property="twitter:image" content="../img/lotto/sabai999-lotto-01.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="หวย g2gbet168 เปิดบริการ ครบทุกประเภท และเว็บที่จ่ายแพงที่สุด" />
-    <meta name="twitter:description" content="หวย g2gbet168 เว็บหวยออนไลน์ที่ดีที่สุด รับแทงหวย ซื้อหวยออนไลน์ มีความมั่นคง ทางการเงิน จ่ายผลตอบแทน สูงสุดในไทย สามารถแทงได้ทุกที่ ทุกอุปกรณ์ แทงหวยบนมือถือ สะดวก และรวดเร็ว รองรับระบบ Android และ iOS เปิดรับแทงหวยล่วงหน้า มาพร้อมอัตรา การจ่ายสูงสุด ถึงบาทละ 900 แทงหวย ไม่มีขั้นต่ำ เริ่มต้น 1 บาท" />
-    <meta name="twitter:site" content="g2gbet168">
-    <meta name="twitter:creator" content="g2gbet168">
+    <meta name="twitter:title" content="sabai999 หวย ปลอดภัย 100% จ่ายแพง จ่ายจริง" />
+    <meta name="twitter:description" content="sabai999 หวย นอกเหนือจากหวยรัฐบาลแล้ว ทางเว็บไซต์หวยออนไลน์ ก็ยังมีหวยต่างประเทศ ให้ได้เลือกเล่น ไม่ว่าจะเป็น หวยลาว รวมถึงหวยจับยี่กี่" />
+    <meta name="twitter:site" content="sabai999">
+    <meta name="twitter:creator" content="sabai999">
 
-    <link rel="canonical" href="#/lotto/" />
-    <link rel="alternate" href="#/lotto/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.sabai-999.com/lotto/" />
+    <link rel="alternate" href="https://www.sabai-999.com/lotto/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "https://www.sabai-999.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,
